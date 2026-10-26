@@ -1,5 +1,3 @@
-# Thomas Fischle
-
 Software developer working on embedded firmware, robotics, and GPU computing.
 
 ## Projects
