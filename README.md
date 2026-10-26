@@ -1,6 +1,6 @@
 # Thomas Fischle
 
-Software developer in Seattle, WA, working on embedded firmware, robotics, and GPU computing.
+Software developer working on embedded firmware, robotics, and GPU computing.
 
 ## Projects
 
